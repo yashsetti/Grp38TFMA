@@ -8,6 +8,8 @@ Using route.params in the screen components, data is passed.With the setup, when
 
 
 <img width="300" alt="image" src="https://github.com/yashsetti/Grp38TFMA/assets/103024238/a69d84bb-19be-4921-8bef-3b81139e2025">
+
+
 Homescreen of SwapDrobe which has buy and sell options for users
 
 
