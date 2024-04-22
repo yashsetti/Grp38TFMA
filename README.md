@@ -39,12 +39,22 @@ THis tab will be redirected
 <img width="300" alt="image" src="https://github.com/yashsetti/Grp38TFMA/assets/103024238/595a8db4-d327-4f68-90e1-5d391489682d">
 
 
+
+
+
+
 In clearance we have to select categories to explore.
 
 <img width="300" alt="image" src="https://github.com/yashsetti/Grp38TFMA/assets/103024238/5c12ebac-6f11-4cd3-abbf-84e83cab146e">
 
 
 In sell items we have Title, Description and price of it. We can upload it and submit after selecting a photo.
+
+https://github.com/yashsetti/Grp38TFMA/assets/103024238/b9ee4054-8968-4dc0-b0ce-5a4f47c15751
+
+
+
+
 
 
 
